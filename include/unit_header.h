@@ -13,6 +13,8 @@
 
 /*  Prototype  */
 int my_strlen(const char *str);
+int my_atoi(char *str);
+int my_strcmp(char const *s1, char const *s2);
 
 /*  ---------  */
 
